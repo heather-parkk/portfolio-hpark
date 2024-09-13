@@ -1,8 +1,14 @@
 ---
-title: Blog 1
+title: The Tabula Rasa Problem & Perfectionism
 layout: doc
 ---
 
-# Blog 1
+# The Tabula Rasa Problem, Perfectionism, & Students
 
-Hello blog
+Within class, when we first brought up what the Tabula Rasa problem was, I immediatley thought about how difficult it is for me to start projects because I have an innate habit of making my first draft the "perfect" draft. When coming back to my dorm and asking my suitemates, they felt the same sentiment. The study of academic procrastination and the tabula rasa problems from the initial daunting task of starting a project.
+
+In the paper ["Perfectionism and Academic Procrastination"](https://www.sciencedirect.com/science/article/pii/S187704281101929X), the study demonstrated the correlation between higher scores on the Multidimensional Perfectionism Scale (MPS-F) and higher levels of procrastination based on the Procrastination Assessment Scale - Students (PASS). The paper focused on 200 students (92 males, 108 females) selected from various fields of study in universities. Though the paper did not deeply analyze greater reasoning behind this phenomenon, the Harvard Crimson wrote an article titled ["Perfection Out, Failure In?"](https://www.thecrimson.com/article/2007/4/12/perfection-out-failure-in-rather-than/) discussing the issue on Harvard's campus. The pervasive idea of failure overcomes the ability to begin a project, ultimately preventing students from getting things done.
+
+To elaborate more on this in terms of recent developments, AI has affected how people deal with the Tabula Rasa problem. It has become easier for people to tell initial ideas to ChatGPT to begin the start of their brainstorming. For example, for something within our own 6.1040 class, one could search "What are ideas of social media apps?" for the final project. In an attempt to decrease one's procrastination, ChatGPT can help fuel this initial ideation of projects. However, there is a potential of having your own Tabula Rasa problem when being faced with ChatGPT. Even with the power of the entire internet at your fingertips, one can still feel like they have a block, especially with the idea that "all ideas are taken" so there is nothing new to develop. This ultiatemly highlights an ongoing struggle with creativity in the digital age, where access to endless information can sometimes be as overwhelming as the blank page itself.
+
+This becomes more relevant within the classroom environment as schools and universities need to address digital tools being integrated into educational environments. Educators and researchers are exploring ways to utilize AI to actively combat procrastination by suggesting starting points and project frameworks to guide students more effectively. Initiatives like integrating AI into learning management systems to provide customized prompts based on a student's past behavior can help prevent Tabula Rasa and initial procrastination for perfectionist students.
