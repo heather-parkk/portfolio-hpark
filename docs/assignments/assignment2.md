@@ -7,7 +7,7 @@ layout: doc
 
 ## Broad Application Goals: 
 #### Name: Nomadly 
-- For all the nomads :))
+- For all the nomads :)
 
 #### Audience: 
 - Travelers (mainly backpackers, but open to luxury travelers, expats, eco-tourists, digital nomads, volunteer travelers – could look into the goals and interests of each of these groups)
@@ -138,3 +138,133 @@ Having multiple people view a profile at once could be interesting for group mee
 #### Map Page
 - Map where Travello organizes their community posts based on locations on a map, where you can press certain cities and see posts from that city.
 - Within my interviews, we talked about an idea about a map function. However, how can we utilize this map basis but have it be in regards to matching with people. It could mark what countries people you follow are in, or even highlight activities to do in that area. I would need to brainstorm an effective way of using a “map page” to the best use of my users.
+
+
+### We3
+- Friend matching app which focuses on matching people in groups of 3
+
+<img src="./images/we31.png" alt="alt text" width="200" height="450">
+
+#### Profile Question: Gender matching
+- Profile general questions ask what gender the user would be open to matching with
+- This is an idea Lydia mentioned! However, I think Nomadly should have more options in terms of gender.
+
+
+<img src="./images/we32.png" alt="alt text" width="200" height="450">
+
+#### Matching Tests
+- We3 does not swipe on profiles, but instead has 5 levels of test including questions and follow-up questions similar to a “dating app swipe” style to learn more about the user. We3 then uses a matching algorithm based on these responses.
+- This is a really creative way to revamp the dating app swipe process. Perhaps Nomadly could have a similar function in terms of needing to match for the algorithm, and then put the general interests from these questions on the profile (where a person can choose to hide or share those answers to the questions), and then be able to swipe on people, that also has a marker of what percent match a person is to your profile.
+
+
+<img src="./images/we33.png" alt="alt text" width="200" height="450">
+
+#### We3 Matching System
+- We3 matches people in groups of three in an effort to rid of the awkward 1-on-1 scenarios and have it be more fun for people to match within a group. You press a button to “Match Me” and then the algorithm will sorry you into a group, saying the percent compatible and then what interests, goals, possible activities, etc. you and the group might like. You can then choose to start a group or reject a group, either by indicating who in the group you do not prefer or because of distance. 
+- Perhaps Nomadly could have a function for those who want to meet in a group, since I know activities such as bar crawls are popular with big groups. There can be a group match function, though the details (how many people in a group) can be sorted later. 
+
+### Been
+- App to track what countries you have traveled to 
+
+<img src="./images/been1.png" alt="alt text" width="200" height="450">
+
+#### Select Page
+- Page that allows you to add what countries you have been to/lived in/wish to travel to, and demonstrate it on a world map, which also gives stats of what percent of the world you have visited/lived in/wish to travel to and how many countries you have visited/lived in/wish to travel to. 
+- Nomadly could have a version of this feature where travelers mark this, and then the app can aim to give them suggestions based on countries on their wish list, or aim to give them matches from those areas if a person decides to want to match with people all over the world (people should have the option to match with people all over the world or just in one specific area they are traveling to).
+
+<img src="./images/been2.png" alt="alt text" width="200" height="450">
+
+#### Compare Page
+- Page to compare your stats with other people’s stats on tavel through local profiles, file, or QR
+- Nomadly could use a similar concept of sharing statistics but possibly through something already demonstrated within their profile when it is shown to another user, since sending files and QR may be difficult when people are further away. 
+
+### HelloTalk
+- App to communicate with others to practice language learning -- essentially a learning language partner app
+
+<img src="./images/hellotalk1.png" alt="alt text" width="450" height="200">
+
+#### Voice Rooms
+- Voicerooms for HelloTalk allow users to join community rooms and practice speaking and listening skills in an open-invite space. Users can set which language they want to focus on, and begin their own voiceroom on whatever topic or level of fluency they are.
+- Nomadly could use a similar concept of open-invite community rooms for travelers who want to plan events, and there could be a specification on language since travelers may be from all different areas of the world. 
+
+### SplitWise
+- App to track expenses and bills when shared between multiple people
+
+<img src="./images/splitwise1.png" alt="alt text" width="450" height="250">
+
+#### Genral Interface (Splitting a Bill)
+- Splitwise allows you to create groups and include members in a group, where you mark what you spent and what amount, and then it can be split amongst the select members in a group equally, in exact amounts, percentages, or adjusted amounts
+- A feature like this could be helpful since people are meeting as friends, and it isn’t necessarily a date where one party could pay for the other. Nomadly could use this when trying to split costs of meals or group events with its matches possibly.
+
+## Brainstorming Feature Ideas
+### Safety Features
+1. **Meet-up Verification**
+   - When deciding to meet with another user, the user can input a verification within the app that they will be meeting with someone on a specific day at a specific time and location. This method would allow it to be more convenient to set up certain dates/times of meeting people so people can easily see who they have planned to meet and where, since it could get complicated if one is planning to meet with many people and wants to keep track of who they planned outings with.
+
+2. **Safety Check-in**
+   - Nomadly can offer on-demand check-ins that are alerts that will be notified on a person’s device every unspecified amount of time. If a person does not toggle on the check-in that they are safe with a specific password, the safety check-in can alert a predefined list of emergency contacts. This could be extremely important for solo travelers meeting strangers in remote locations.
+
+3. **Meet-up Counter**
+   - On a person’s profile, Nomadly could track how many times a person has met up with someone (after verification through meet-up verification). This counter can be shown as a demonstration to a user if a person can be trusted/is legit if they have met up with many people before.
+
+4. **Emergency Services Locator**
+   - Nomadly has a feature where it provides important local emergency contact information, whether hospitals, police stations, and embassies embedded within their general map so users are aware of what is around them. These important locations will be highlighted on the map so it is visually easy for people to recognize.
+
+5. **Real-time Local Alerts**
+   - Based on locations inputted on your travel tracker for future travels, the app will notify if there are any weather conditions, travel advisories, or local emergencies in that area. This will allow the user to be prepared of any new developments during their travels to ensure their safety.
+
+6. **Gender Specific Option**
+   - Similar to We3’s option to see people of the same sex, Nomadly will give a range of genders that the user can toggle if they are comfortable matching with someone of that gender. With that, their feed may also come with a message alongside certain country profiles if it is common that in that country those who are not heterosexual men solo traveling may not be safe.
+
+### Connecting/Chatting Features
+7. **Traveler Survey**
+   - Alongside the general personality quiz (as used in We3), Nomadly could use an interactive travel survey that has prompts and questions to figure out what type of traveler the user is. The survey results give a rundown to the user, which can then be adjusted if they do not reflect the user's self-view, enhancing the accuracy of travel matches.
+
+8. **Goal-oriented Matchups**
+   - Nomadly can maintain a list of common travel goals (like climbing Patagonia or swimming in the Great Barrier Reef) and offer goal-oriented matchups for people who share these aspirations. This feature makes it easier for users to find and plan meetings with individuals who have similar bucket list goals.
+
+9. **Travel Friend Matching Algorithm**
+   - The app will use details from the user’s profile and responses from the traveler survey to best match individuals within the app. A matching percentage next to each user's name indicates compatibility, encouraging more meaningful connections. Users can also interact with those who have a lower match percentage to refine the algorithm’s suggestions over time.
+
+10. **Compare Travel Stats**
+   - When viewing another user’s profile, users can see which countries both have visited and which are on each other’s bucket lists. This feature encourages conversation and future travel planning with others looking to visit the same places.
+
+11. **Organized Chats**
+   - Nomadly chats are categorized into hidden chats, people you’ve met up with before, and people you haven’t met up with. This system, similar to i
+
+12. **Travel Opening Line**
+- When matching with someone, a person can write any response to that person’s profile when matching, or they can ask the person an opening line from a list of travel opening lines provided by Nomadly, such as “Where has been your favorite place you’ve traveled to?,” “What has been your most terrifying travel story?”, “If you could be anywhere in the world right now, where would you be?”
+
+### Enhanced Travel Features
+13. **Insider Additions**
+    - On Nomadly’s map feature, users can contribute to an "Insider Additions" section by posting hidden gems or advice for specific cities or countries. When a user taps on a city, they can access sections for insider advice and discover hidden gems based on previous travelers' experiences. This feature enriches the travel experience by offering valuable, on-the-ground knowledge that might not be available in traditional guides.
+
+14. **Cultural Etiquette Guide**
+    - Nomadly's map will also include a "Cultural Etiquette Guide" for each city, providing travelers with essential information on local customs, traditions, and etiquette. This guide helps ensure that travelers can interact respectfully with different cultures, enhancing mutual understanding and reducing cultural missteps.
+
+15. **AI Virtual Travel Buddy**
+    - Nomadly will feature an AI-driven travel buddy that can suggest destinations, help plan itineraries, and provide travel tips tailored to the user's interests and travel wishlist. This virtual companion makes planning more interactive and personalized, acting as a resourceful aide for both new and experienced travelers.
+
+16. **Travel Tracker**
+    - The Travel Tracker allows users to input their travel dates and log past journeys, complete with the ability to upload photos, videos, and blog entries. These can be shared publicly on their profile or kept private. For future travel dates, the app will suggest profiles of other users who will be in the same area, organized by compatibility percentages, facilitating easy connections on the go.
+
+17. **Flexible Travel Route Tracker**
+    - Within the Travel Tracker, the FlexiTracker feature lets users list the countries they plan to visit over a selected period. The app will not only share profiles of other travelers during that time but also suggest an optimized travel itinerary based on the user's destinations of interest. This tool helps in efficient route planning and meeting fellow travelers with similar itineraries.
+
+18. **Travel Activity Feed**
+    - Nomadly’s activity feed will display blogs from connections, as well as content tailored to the user's bucket list destinations and travel preferences. This curated feed ensures that users are engaged with relevant activities and potential friends, making the travel planning process both dynamic and personalized.
+
+### Group Travel Features
+19. **Itinerary Collaborator**
+   - Nomadly could feature a chat function that doubles as an itinerary collaboration tool. This tool would allow group members to vote on travel activities, manage budgets, and discuss the schedule in a structured format. This ensures everyone in the group is on the same page regarding the travel plans, making group travel smoother and more organized.
+
+20. **Community Groups**
+   - Nomadly could host a page for open-invite group events, allowing users to either join pre-existing events or start their own. Once users join an event, they are added to a group chat, facilitating communication and planning. This feature is designed to help travelers who haven't matched formally but are interested in participating in larger community gatherings or discussions.
+
+21. **Nomadly Party**
+   - This feature allows travelers to form a party and swipe together on potential travel mates. If one party member swipes right, the rest of the party must approve for a match to occur, promoting group consensus. This is ideal for groups looking to expand their network together while maintaining a collective decision-making process.
+
+22. **Nomadly Split Tracker**
+   - Within the app's chat function, Nomadly will incorporate a split tracker to manage group expenses. This tool will help travelers keep track of shared costs, ensuring everyone knows how much they owe or are owed, simplifying financial management during group travels.
+
+
