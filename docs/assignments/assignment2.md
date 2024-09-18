@@ -5,7 +5,7 @@ layout: doc
 
 # Assignment 2
 
-## Broad Application Goals: 
+## Broad Application Goals
 #### Name: Nomadly 
 - For all the nomads :)
 
@@ -17,7 +17,7 @@ layout: doc
 - Possible value: Nomadly uses a similar interface to dating apps to make matching and connecting simple for its users.
 (possibly locals wanting to interact with travelers; e.g. practice their English with other people – an idea I can look into if I have time) to socialize with
 
-## Scrapbook of Comparables:
+## Scrapbook of Comparables
 ### Backpackr
 - Backpacking app to “find others travelling to the same destination, collect virtual stamps and share photos with friends as you go” (from homepage)
 
@@ -268,3 +268,46 @@ Having multiple people view a profile at once could be interesting for group mee
    - Within the app's chat function, Nomadly will incorporate a split tracker to manage group expenses. This tool will help travelers keep track of shared costs, ensuring everyone knows how much they owe or are owed, simplifying financial management during group travels.
 
 
+## VSD Analysis
+1. **Safety Check-in (Stakeholders)**
+   - **Observation:** The safety check-in feature may have an issue with potential handling of data, since having a hacker leak with access to frequent location tracking and emergency contact alerts would be harmful to the users.
+   - **Design Response:** Implement adjustable privacy settings to allow users to choose how much information is shared and with whom. The data can also be encrypted and that users are informed about how their data is used and stored for the comfort of the user.
+
+2. **Long-term Impact of Travel Buddy Wishlist (Time)**
+   - **Observation:** While the Travel Buddy Wishlist encourages travel planning and connections, over the long term, it may contribute to overtourism in popular destinations and most users may just only visit the same few cities.
+   - **Design Response:** Introduce features that encourage off-season travel or promote less-known locales alongside popular destinations to distribute travel impacts more evenly over time and space. This could be done through an implementation of having a weekly city spotlight on people’s feed that highlights a city that is not as widely visited by users.
+
+3. **Implications of Real-Time Local Alerts (Pervasiveness)**
+   - **Observation:** If the Real-Time Local Alerts feature are widely used, especially in areas that are a bit more prone to incidents, it might lead to a heightened sense of anxiety or dependence on technology for safety for the traveler.
+   - **Design Response:** Balance the alert system with controls that allow the user to customize the frequency and types of alerts they receive to reduce potential anxiety and unnecessary alarms that may disturb the user’s travel experience.
+
+4. **Gender Specific Option (Values)**
+   - **Observation:** Though made to enhance inclusivity and safety, it may unintentionally segregate or isolate certain user groups if not inclusively designed well based on how the feature is presented.
+   - **Design Response:** Regularly update the app’s gender options and safety messages to reflect a broad spectrum of sexualities, gender, and other identities. Nomadly should continually update its gender options to include a wide array of identities. And with safety messages, the user should be able to choose whether they receive certain forms of safety alerts based on their own comfort level rather than it being automatic based on gender.
+
+5. **Insider Additions (Pervasiveness)**
+   - **Observation:** "Insider Additions” sharing of hidden gems can lead to overcrowding and over-tourism in areas that are more dear to locals who do not want certain areas to have an influx of tourists.
+   - **Design Response:** Nomadly could develop a moderation system on the “hidden gems” shared and possibly ask for guidance from local tourism boards or research from locals (probably not something I can do in one semester) on areas more/less prone to tourists.
+
+6. **Route Tracker & Travel Bucket List (Values)**
+   - **Observation:** The Route Tracker and Travel Bucket List could encourage extensive travel from certain routes or inspiration of other travels, which could lead to an increase the carbon footprint of users, and conflict with concerns over the environment.
+   - **Design Response:** Integrate a carbon offset feature that calculates the environmental impact of proposed travel plans based on estimations (possibly better estimations if there is an additional feature where users can input their flights and the app can guesstimate the carbon emissions of the flight). This will help users be aware of the carbon footprint. Alongside this number, there can be a tips button where users can press and look into ways to avoid increasing their carbon footprint (different suggestions of forms of travel or donating/supporting organizations that try to minimize carbon footprint).
+
+
+## Storyboarding and sketching
+### Confirm Meet-up w/Another User
+<img src="./images/story1.png" alt="alt text" width="800" height="450">
+<img src="./images/story2.png" alt="alt text" width="800" height="450">
+
+**Important Notes**
+- How can this feature be less "clunky" on the interface in terms of design?
+- Are there any other details that should be included before and after verifying a meet-up?
+
+### Using Flexible Tracker for Ideal Route Planning
+<img src="./images/story3.png" alt="alt text" width="800" height="450">
+<img src="./images/story4.png" alt="alt text" width="800" height="450">
+
+**Important Notes**
+- Possible integration of a map: it would make it easier for people to plan flexible trips in countries close to each other
+- Is the 3 Route feature the most effective? I wanted to allow people to easily see options and then have a chance to refresh. 
+- Are there any other functions that could be added to the Itinerary Tracker? Other than to edit, delete, and add?
