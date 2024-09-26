@@ -164,16 +164,50 @@ Nomadly also includes a map page that has the general locations of where users a
 
 
 
-#### Value: 
-- Nomadly would be an application for matching, connecting, and meeting other travelers abroad. 
-- Possible value: Nomadly uses a similar interface to dating apps to make matching and connecting simple for its users.
-(possibly locals wanting to interact with travelers; e.g. practice their English with other people – an idea I can look into if I have time) to socialize with
+## Synchronization: 
+**app** Nomadly
 
-## Scrapbook of Comparables
-### Backpackr
-- Backpacking app to “find others travelling to the same destination, collect virtual stamps and share photos with friends as you go” (from homepage)
+**include** Authentication [User]
+**include** Session [Session]
+**include** Rating [Rating, Qualities]
+**include** Chatting [Chat]
+**include** Meeting [Meeting]
+**include** Locating [Location]
 
-<img src="./images/backpackr1.png" alt="alt text" width="300" height="300">
+## Synchronization Processes
+
+### When a Survey is Completed
+**sync**  `surveyComplete (userID: User, surveyResults: JSON)`
+- `Authentication.updateProfile (userID, surveyResults)`
+- `Rating.calculateMatches (userID)`
+
+### When a Profile is Liked
+**sync** `LikeProfile (userID: User, targetUserID: User)`
+- `Rating.registerSwipe (userID, targetUserID, like=true)`
+- `Chat.initiateChat (userID, targetUserID)`
+- `Locating.showUserOnMap (userID)`
+
+### When Proposing a Meeting
+**sync**  `proposeMeeting (proposerID: User, receiverID: User, date: Date, time: Time, location: String)`
+- `Meeting.scheduleMeeting (proposerID, receiverID, date, time, location)`
+- `Chatting.sendMeetingProposal (receiverID)`
+
+#### When Confirming a Meeting
+**sync**  `confirmMeeting (meetingID: MeetingID)`
+- `Meeting.confirmMeeting (meetingID)`
+- `Notification.notifyMeeting (meetingID)`
+
+#### When Setting an Emergency Contact
+**sync** `setEmergencyContact (userID: User, phone_number: String)`
+- `Meeting.storeEmergencyContact (userID, phone_number)`
+
+#### When Updating Location
+**Trigger:** `updateLocation (userID: User, location: Location)`
+- `Locating.updateUserLocation (userID, location)`
+- `Locating.showUserOnMap (userID)`
+
+
+
 <img src="./images/backpackr2.png" alt="alt text" width="500" height="200">
 
 #### Home Page
