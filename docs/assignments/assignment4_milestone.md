@@ -3,7 +3,7 @@ title: Assignment 4 Milestone 1
 layout: doc
 ---
 
-# Assignment 3
+# Assignment 4 Milestone
 
 ## Reformed Concepts 
 
@@ -168,6 +168,8 @@ layout: doc
 
 ### [Chatting](https://github.com/heather-parkk/a4-backend-starter/blob/main/server/concepts/chatting.ts)
 
+### [Adjustment in Errors](https://github.com/heather-parkk/a4-backend-starter/blob/main/server/concepts/errors.ts)
+
 
 ## Initial Deployment to Vercel
 <img src="./images/deploymenterror_1.png" alt="alt text" width="500" height="300">
@@ -176,4 +178,3 @@ I think because of the general errors I have been having on my files (probably b
 
 ## RESTful Routes
 <img src="./images/RESTfulroutes.png" alt="alt text" width="500" height="300">
-Example of RESTfulroutes
