@@ -70,19 +70,19 @@ Nomadly also includes a map page that has the general locations of where users a
 **Principle:** User views profile of person which includes their potential match calculation from qualities, then user rates profile. If both users "like" each others’ profile, they will "match." If not, then there will be no match.
 
 **State:**
-- **qualities:** one JSON
-- **userID:** set User
-- **potmatch_userID:** map User → set User
-- **rating:** map (userID, potmatch_userID) → out bool matchCalc
-- **isMatch:** map(userID: rating, potmatch_userID: rating, out bool isMatch)
+- **qualities:** JSON (from profileDetails)
+- **ratings:** map (raterID, rateeID) → boolean (true as like, false as dislike)
+- **matches:** set (User pairs)
+- **potentialMatches:** map (userID) → list potmatch_userIDs
+- **matchCalc:** map (userID, potmatch_userID) → integer (compatibility score)
 
 **Actions:**
-- `calculatePotentialMatch (userID: User, potmatch_userID: User, out matchCalc: int)`
-- `showProfile (userID: User, potmatch_userID: User, qualities JSON, matchCalc int)`
-- `rateProfile (userID: User, potmatch_userID: User, like: Bool)`
-- `isMatch (User, User) → bool`
+- `calculateCompat (userID, potmatch_userID, qualities)`
+- `rateProfile (raterID, rateeID, like)`
+- `checkMatch (raterID, rateeID)`
 
-**Additional Description:** Rating is where we will use the qualities which are set via a JSON file and each user is set with a userID. Then, each user can be mapped with a potential match (other user) ID, or the potmatch_userID, where it is calculated how compatible they are. Based on that matchCalc int, the user will be displayed the profiles they are most compatible with. Then, the actual rating (whether the person likes or dislikes another person’s profile) will output a bool matchCalc (1 for like, 0 for dislike). People are matched, or isMatch, when it checks if both people have both liked each other (1 for each), in which they are now a confirmed match (1 if confirmed match, 0 if not confirmed match).
+
+**Additional Description:** Rating is where we will use the qualities which are set via a JSON file and each user is set with a userID. Then, each user can be mapped with a potential match (other user) ID where it is calculated how compatible they are. Based on that calculateCompat int, the user will be displayed the profiles they are most compatible with. Then, the actual rating (whether the person likes or dislikes another person’s profile) will output a bool. People are matched when it checks if both people have both liked each other (1 for each), in which they are now a confirmed match
 
 ---
 
