@@ -1,5 +1,5 @@
 ---
-title: Assignment 4 Milestone 1
+title: Assignment 4
 layout: doc
 ---
 
