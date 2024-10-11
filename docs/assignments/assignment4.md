@@ -168,6 +168,7 @@ layout: doc
 **sync** `likeProfile (raterID: User, rateeID: User)`
 - `Matching.rateUser(raterID, rateeID, like=true)`
 - `Chatting.startChat(raterID, rateeID)`
+- `Locating.viewLocation (userID: User)`
 
 ### Propose Safe Meeting
 **sync** `proposeSafeMeeting (proposerID: User, receiverID: User, date: Date, time: Time, location: String, emergencyContact: String)`
@@ -176,6 +177,10 @@ layout: doc
 ### Confirm Safe Meeting
 **sync** `confirmSafeMeeting (meetingID: MeetingID)`
 - `SafeMeeting.confirmMeeting(meetingID)`
+
+### Deny Safe Meeting
+**sync** `denySafeMeeting (meetingID: MeetingID)`
+- `SafeMeeting.denyMeeting(meetingID)`
 
 ### Update Location
 **sync** `updateLocation (userID: User, location: Location)`
