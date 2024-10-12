@@ -195,7 +195,7 @@ layout: doc
 - `Locating.viewLocation(userID)`
 
 ## Database Diagram
-<img src="./images/a4_databasemodel_final.png" alt="alt text" width="500" height="300">
+<img src="./images/databasemodel_final.png" alt="alt text" width="500" height="300">
 
 ## Implementation
 ### [Vercel](https://a4-backend-starter-l767yoth2-heathers-projects-1dcdd1b4.vercel.app)
