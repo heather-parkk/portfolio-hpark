@@ -3,7 +3,7 @@ title: Assignment 4
 layout: doc
 ---
 
-# Assignment 4 Milestone
+# Assignment 4 
 
 ## Reformed Concepts 
 
