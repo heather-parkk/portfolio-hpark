@@ -49,6 +49,6 @@ Attempted concepts of UserProfiling & Matching, had some difficulties in terms o
 
 ### [Component // Matching](https://github.com/heather-parkk/frontend-starter/tree/main/client/components/Match)
 
-### [Component // Matching](client/components/UserProfiling)
+### [Component // UserProfiling](https://github.com/heather-parkk/frontend-starter/tree/main/client/components/UserProfiling)
 
 ### [Github Repo of Front-end](https://github.com/heather-parkk/frontend-starter)
