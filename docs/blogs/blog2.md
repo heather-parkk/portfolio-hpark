@@ -1,5 +1,5 @@
 ---
-title: The Tabula Rasa Problem & Perfectionism
+title: Importance of Arrow Direction in Designing a Database: Privacy
 layout: doc
 ---
 
