@@ -52,7 +52,7 @@ I troubleshooted by going back to my a4 backend, which allowed me to solve more 
 ### [Github Repo of Front-end](https://github.com/heather-parkk/frontend-starter)
 
 ## Visual Study
-<img src="./images/A5 Visual Study-1.heic" alt="alt text" width="500" height="300">
+<img src="./images/A5 Visual Study-1.jpg" alt="alt text" width="500" height="300">
 
-<img src="./images/A5 Visual Study-2.heic" alt="alt text" width="500" height="300">
+<img src="./images/A5 Visual Study-2.jpg" alt="alt text" width="500" height="300">
 
