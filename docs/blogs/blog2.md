@@ -1,5 +1,5 @@
 ---
-title: Importance of Arrow Direction in Designing a Database: Privacy
+title: Importance of Arrow Direction in Designing a Database -- Privacy
 layout: doc
 ---
 
