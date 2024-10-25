@@ -43,7 +43,7 @@ layout: doc
 - For Match, could include directions at the top like "Step #1: Plan the Details", "Step #2: Choose Meet-up Location", "Step #3: Give us an Emergency Contact". Emergency contact should also include a brief description of why the app is asking for this information, and possibly an opt-out option since people may not want an emergency contact given(?) --> Adds more "clutter" instead of a minimalistic feel, but would be a helpful tradeoff for those confused users
 
 ## Reactive Components
-When developing my components, I had trouble with the final "Locating" and "Chatting" concepts. In terms of chatting, I was struggling in making a connection between the matching and how to connect that to the chatting concept within my repo. For locating, I utilized the ["Leaflet"](https://leafletjs.com/) maps, but was having difficulty in its implementation. Within my code, you cannot see it being displayed, but the Locating vue files are commented out, since with them, it created errors in uploading in Vercel. 
+When developing my components, I had trouble with the final "Locating" and "Chatting" concepts. In terms of chatting, I was struggling in making a connection between the matching and how to connect that to the chatting concept within my repo. For locating, I utilized the ["Leaflet"](https://leafletjs.com/) maps, but was having difficulty in its implementation. Within my code, you cannot see it being displayed, but the Locating vue files are commented out, since with them, it created errors in uploading in Vercel. I was able to create a "SafeMeeting" concept that users are able to fill out, but because I was having trouble to get "Chatting" to work, its usability is flawed.
 
 I troubleshooted by going back to my a4 backend, which allowed me to solve more of the initial problems with sessioning, userProfiling, and Matching (which I was thankful for).
 
@@ -52,7 +52,13 @@ I troubleshooted by going back to my a4 backend, which allowed me to solve more 
 ### [Github Repo of Front-end](https://github.com/heather-parkk/frontend-starter)
 
 ## Visual Study
-<img src="./images/A5 Visual Study-1.jpg" alt="alt text" width="500" height="300">
+<img src="./images/A5_Visual_Study-1.jpg" alt="alt text" width="500" height="300">
 
-<img src="./images/A5 Visual Study-2.jpg" alt="alt text" width="500" height="300">
+<img src="./images/A5_Visual_Study-2.jpg" alt="alt text" width="500" height="300">
 
+When going about my visual study, I noticed a use of a variety of fonts to emphasize certain parts of the website, which is why I decided to use a serif "fancier" font when emphasized "Nomad.ly" in the front page, in inspiration of travel magazines. Then, I took inspiration from travel websites in terms of the Homepage and general layout of other fonts. In terms of color scheme, I also based it off of green, blues, and more muted colors in travel images.
+
+I also decided to apply informative, simple messaging in terms of the heuristics for the website. I aimed to apply Gestalt's Principles in terms of grouping information together so it's easy to tell what user's information is regarding which user, and to separate "My Profile" information from "Rating User Profiles" information once done with userProfiling. For most parts, I applied simple top down approaches to given information. 
+
+## Lingering Problems
+Overall, I think I am still proud of the amount of coding that I was able to do (alongside the help of ChatGPT for a strong basis of the code), but using my own skills at the helps of TAs during OH to debug. I was wondering in terms of tackling A6, how I should go about it if I still have bugs in my code that flaw the usability of the website.
