@@ -1,0 +1,14 @@
+---
+title: Blog Response: Policies to Prevent Misusage in Technology
+layout: doc
+---
+
+# Blog Response: Policies to Prevent Misusage in Technology
+Hi Kevin! Reading both you and Ashi's blog post had me thinking about how many issues there are, but then what has the government/society been doing to mitigate this? We have this own internal sense of what we believe is ethical or not, but are there policies being done for this? How can we be able to prevent negative effects before it goes too far.
+
+
+One framework that I was able to research is the ["IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems"](https://standards.ieee.org/industry-connections/activities/ieee-global-initiative/). IEEE is attempting  to set ethical standards for AI development, specifically on the ethics of the design and deployment processes. Reading through it, it wants that AI systems should be understandable and traceable, ensuring that users know how and why an AI system is making certain decisions. For instance, in the context of AI art, if image-generation tools were transparent about their training data sources and algorithmic processes, it could help artists and users better understand how these creations are generated, and act as the best possible way to prevent issues with AI art. Another part of IEEE’s framework is accountability. IEEE emphasizes the need for engineers and companies to create systems that allow for accountability when AI goes wrong. This could involve mechanisms to trace decisions back to specific individuals or companies responsible for an AI system’s effects. Back to the previous example, that if a company releases an AI tool that allows users to generate content based on others’ artistic styles, there should be a way to hold the creators accountable for any unintended consequences.
+
+Another international example is the ["UN Guiding Principles on Business and Human Rights (UNGPs)""](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) that are general principles applied to businesses to ensure they respect human rights. There is one section of the guiding principles that is called "due diligence" that encourages companies to assess and address potential human rights impacts before deploying a new technology. If AI developers conducted human rights impact assessments before releasing image-generation models, for example, they might identify risks to artists’ livelihoods and take preventive steps, like a method of proving copyright or watermarking.
+
+I'm not saying that these methods are perfect (they aren't at all), but I'm glad that there are steps being taken. AI is still so new, so more and more ways to tackle its effects will hopefully be developed as time passes by. But I hope this gets people thinking about the ways that people can think about how to tackle these types of issues 
