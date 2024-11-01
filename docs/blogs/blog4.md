@@ -1,5 +1,5 @@
 ---
-title: Blog Response: Policies to Prevent Misusage in Technology
+title: Blog Response --  Policies to Prevent Misusage in Technology
 layout: doc
 ---
 
