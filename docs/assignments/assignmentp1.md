@@ -46,7 +46,6 @@ We could measure the frequency and depth of shared messages, user engagement wit
 ### Potential Stakeholders
 - Young Adults: People who have a busy lifestyle with their work or for other reasons so that they do not have enough time to see them
 - Long-Distance Family Members: Family members who wish to stay connected but struggle due to time zones or busy schedules
-- Couples in Long-Distance Relationships: Couples who experience the challenges of being intimate due to distance
 - Elderly: Elderly individuals who may find technology challenging but want to stay in touch with their family members that are not near
 
 ### Potential Experts
@@ -150,12 +149,12 @@ Interest in Connection Aids
 - If you could change one thing about how you currently connect with family, what would it be?
 - In your experience, what’s been the most valuable way to stay connected to loved ones over distance or time?
 
-### Interview Key takeaways
+### Interview Key takeaways [Link Here](https://drive.google.com/drive/folders/1O4uo39bdNR7uJq69SYYCbs7nTzh6ZCGy?usp=sharing)
 
 #### Dani (20, Cuban Immigrant): 
 Dani primarily communicates with family in Cuba and the U.S. through group chats and sporadic messages but feels distanced from her Cuban relatives due to language barriers and limited resources. She’s curious about her cultural heritage and would value a way to bridge this gap with meaningful conversations. While she finds apps like WhatsApp useful, she’s skeptical about prompts driving engagement without deeper conversations. An interactive memory archive and culturally relevant prompts could foster her desired connection.
 
-#### Skylar (College Student): 
+#### Skyler (20, College Student who studied Psychology, now studying Inclusive Childhood Education): 
 Skylar connects with her small, close-knit family primarily through phone calls, finding real-time voice conversations more meaningful than texts. She’s interested in exploring family history and sensitive topics like trauma but struggles to connect frequently due to conflicting schedules. She appreciates structured prompts that build trust and values physical memories over digital. A solution could include real-time voice features, gradual prompts for deeper topics, and a simple, accessible design.
 
 #### Kevin’s Grandpa (85, WeChat User): 
@@ -173,3 +172,6 @@ Our solution to address this problem is an app that creates a shared memory spac
 We believe this is a good solution because it combines casual, low-pressure prompts that can align with people’s busy schedules with intentional archiving, allowing family members to share stories and insights at their own pace. By progressively deepening prompts and having the inclusion of AI support when creating follow-up questions for initial personalized pr5ompts, the app can guide family members into meaningful discussions. Features like skippable and personalized prompts, archiving/unarchiving past prompts to be able to go back and forth from past memories, annotations for photos to be able to explain photos better, and an easy-to-view archive differs from other apps in that the content can be memory specific for each prompt and allows flexibility in its prompts compared to other “memory-sharing” apps.
 
 We could measure engagement rates (which includes both frequency of using the app and prompt completion), the diversity of contributions within shared “memories” of a variety of users of different groups (age, occupation, nationality), and user-reported feelings of how connected or close they now feel to their relative to prove that our app effectively deepens family connections and helps users uncover past history and information about their family members that contribute to a stronger sense of their own identity and values.
+
+## [Class Pitch]((https://docs.google.com/presentation/d/13Zgty1mDp-KWTWPOdfJkaE-cLYcBzMCfyNeDU07e65I/edit?usp=sharing))
+
