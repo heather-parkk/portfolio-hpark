@@ -173,5 +173,5 @@ We believe this is a good solution because it combines casual, low-pressure prom
 
 We could measure engagement rates (which includes both frequency of using the app and prompt completion), the diversity of contributions within shared “memories” of a variety of users of different groups (age, occupation, nationality), and user-reported feelings of how connected or close they now feel to their relative to prove that our app effectively deepens family connections and helps users uncover past history and information about their family members that contribute to a stronger sense of their own identity and values.
 
-## [Class Pitch]((https://docs.google.com/presentation/d/13Zgty1mDp-KWTWPOdfJkaE-cLYcBzMCfyNeDU07e65I/edit?usp=sharing)
+## [Class Pitch](https://docs.google.com/presentation/d/13Zgty1mDp-KWTWPOdfJkaE-cLYcBzMCfyNeDU07e65I/edit?usp=sharing)
 
