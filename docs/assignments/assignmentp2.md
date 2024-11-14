@@ -80,14 +80,14 @@ Divides into all channels -> can sort to investigate different channel types (pu
 
 - Klokbox is an application with a special feature “story boxes which is basically a digital time capsule. Users can create story boxes containing text, photos, videos, or documents that can be unlocked later by families and friends who you authorized. It also encourages users to record daily positive moments to boost happiness.
 
-### [The Fabric of America](fabricofthenation.nepyru.com/)
+### [The Fabric of America](fabricofthenation.nepyru.com)
 <img src="./images_p2/image (62).png" alt="alt text" width="600" height="250">
 
 - The archives of audio files are not presented to the user as a list, but rather it is presented as nodes on top of the american flag. 
 - This highly visual representation of an archive in a non-traditional format emphasizes the  message and name of the web app, “Fabric of America”.
 - The audio replay interface is also beautifully designed where the metaphor of “fabric” continues in the form of string-like, thread-like vibrations.
 
-### [Rose Island](https://www.rose-island.co/ )
+### [Rose Island](https://www.rose-island.co )
 <img src="./images_p2/image (63).png" alt="alt text" width="600" height="250">
 
 - Images are presented as interactable stacks. This user interaction makes the viewing experience more grounded to a physical photo album.
