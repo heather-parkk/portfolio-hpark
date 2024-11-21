@@ -464,7 +464,7 @@ After adding a comment on an item, users can view the comment whenever the item 
 - `Archiving.deleteFromArchive(user, post, archive)`
 
 ### [Dependency Diagram](https://www.figma.com/design/zlMTlEkdB767rvdTfWRY1W/Fam.ly?node-id=0-1&t=e4RxQu9QbMmS2bpx-0)
-<img src="./images_p3/image (77).png" alt="alt text" width="500" height="350">
+<img src="./images_p3/image (78).png" alt="alt text" width="500" height="350">
 
 ## Wireframes
 ### [Wireframes Full Display on Figma (with labels)](https://www.figma.com/design/zlMTlEkdB767rvdTfWRY1W/Fam.ly?node-id=0-1&node-type=canvas&t=FMHncAIFogfKYBMl-0)
